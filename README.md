@@ -1,5 +1,5 @@
 Proiect-partea2 POO 
-Costin Didoaca 323CA
+Costin Didoaca 
 
 *******************************************************************************
 		Descrierea implementarii - Proiect partea 1
